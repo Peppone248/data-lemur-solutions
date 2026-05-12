@@ -44,20 +44,17 @@ Problems are organized by topic and/or difficulty to make navigation easier.
 
 ### Python
 - Arrays & Strings
-- Hash Maps & Sets
 - Sorting & Searching
+- Data Wrangling
 - Recursion
-- Dynamic Programming
-- Graphs & Trees
 - Sliding Window
 - Two Pointers
-- Greedy Algorithms
+- Data Analysis
 
 ### SQL
 - Joins
 - Aggregations
 - Window Functions
-- CTEs
 - Subqueries
 - Ranking Functions
 - Data Cleaning
